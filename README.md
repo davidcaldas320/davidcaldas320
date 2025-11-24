@@ -8,7 +8,6 @@
 
 ---
 
-<!-- Apresentação -->
 ## 🚀 Sobre mim
 
 Sou estudante de **Ciência da Computação (7º período)** e apaixonado por **Inteligência Artificial, automações e desenvolvimento de soluções inteligentes**.  
@@ -21,7 +20,6 @@ Atualmente, estou construindo projetos com Python, IA generativa e ferramentas n
 
 ---
 
-<!-- Links -->
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-caldas-481a45248/)
@@ -29,7 +27,6 @@ Atualmente, estou construindo projetos com Python, IA generativa e ferramentas n
 
 ---
 
-<!-- GIF / Foto -->
 <p align="center">
   <img align="center" width="450px" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
@@ -92,6 +89,12 @@ Atualmente, estou construindo projetos com Python, IA generativa e ferramentas n
 
 ---
 
+## 🎯 Principais Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcaldas320&layout=compact&theme=gotham&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## ✨ Fale comigo!
 Se quiser trocar ideia sobre tecnologia, IA, aprendizado, projetos ou qualquer coisa, me chama:
 
@@ -100,4 +103,3 @@ Se quiser trocar ideia sobre tecnologia, IA, aprendizado, projetos ou qualquer c
 ---
 
 <p align="center">Feito com ❤️ e muita curiosidade pela tecnologia.</p>
-
