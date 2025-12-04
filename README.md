@@ -2,9 +2,10 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">👋 Olá! Eu sou o David Caldas</h1></summary>
-    <p>Estudante de Ciência da Computação | Focado em IA Generativa e Desenvolvimento</p>
+    <p>Estudante de Ciência da Computação | Focado em Desenvolvimento de Software</p>
   </ul>
 </div>
+
 
 ---
 
