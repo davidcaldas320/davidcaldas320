@@ -10,13 +10,15 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Ciência da Computação (7º período)** e apaixonado por **Inteligência Artificial, automações e desenvolvimento de soluções inteligentes**.  
-Atualmente, estou construindo projetos com Python, IA generativa e ferramentas no-code para aprender e evoluir diariamente.
+Sou estudante de Ciência da Computação (7º período) com foco em desenvolvimento de software e crescimento profissional na área.
+Tenho experiência com C#, Java, Python, HTML/CSS/JavaScript, além de projetos acadêmicos e pessoais que aplicam arquitetura MVC, CRUD, automações e integração com APIs.
 
-- 🔭 Buscando minha primeira oportunidade como **Estagiário em IA / Tecnologia**  
-- 🤖 Explorando IA Generativa (ChatGPT, Gemini, LangChain, N8N)  
-- 💻 Experiência com Python, Java, C#, HTML/CSS/JS  
-- 🧠 Curioso, dedicado e sempre aprendendo algo novo  
+Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de forma prática. Estou em busca da minha primeira oportunidade como Estagiário em Desenvolvimento, para evoluir tecnicamente e contribuir de forma real com o time.
+
+🔧 Interesses: backend, frontend, boas práticas, arquitetura, metodologias ágeis
+💻 Experiência com: C#, Java, Python, ASP.NET MVC, MySQL, Git
+📚 Evoluindo em Java, Spring e lógica de desenvolvimento corporativo
+💡 Perfil: dedicado, proativo e rápido aprendizado
 
 ---
 
