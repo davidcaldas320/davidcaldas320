@@ -16,16 +16,16 @@ Tenho experiência com C#, Java, Python, HTML/CSS/JavaScript, além de projetos 
 
 Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de forma prática. Estou em busca da minha primeira oportunidade como Estagiário em Desenvolvimento, para evoluir tecnicamente e contribuir de forma real com o time.
 
-🔧 Interesses: backend, frontend, boas práticas, arquitetura, metodologias ágeis
-💻 Experiência com: C#, Java, Python, ASP.NET MVC, MySQL, Git
-📚 Evoluindo em Java, Spring e lógica de desenvolvimento corporativo
-💡 Perfil: dedicado, proativo e rápido aprendizado
+🔧 Interesses: backend, frontend, boas práticas, arquitetura, metodologias ágeis  
+💻 Experiência com: C#, Java, Python, ASP.NET MVC, MySQL, Git  
+📚 Evoluindo em Java, Spring e lógica de desenvolvimento corporativo  
+💡 Perfil: dedicado, proativo e rápido aprendizado  
 
 ---
 
 ## 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-caldas-481a45248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-caldas-481a45248/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidcaldas320)
 
 ---
@@ -58,13 +58,15 @@ Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de
 
 ### 🤖 Inteligência Artificial & No-Code
 <div>
-  <img alt="OpenAI" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" style="filter: invert(1);">
   
-  <img alt="Google Gemini" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" style="fill:#8E75B2;">
-  
-  <img alt="LangChain" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" style="fill:#1C3C3C;">
-  
-  <img alt="n8n" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" style="fill:#EA4B71;">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white">
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+
 </div>
 
 ---
@@ -102,6 +104,7 @@ Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de
 ---
 
 ## ✨ Fale comigo!
+
 Se quiser trocar ideia sobre tecnologia, IA, aprendizado, projetos ou qualquer coisa, me chama:
 
 📩 **davidteixeirafcaldas6@gmail.com**
