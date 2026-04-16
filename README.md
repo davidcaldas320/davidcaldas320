@@ -58,10 +58,13 @@ Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de
 
 ### 🤖 Inteligência Artificial & No-Code
 <div>
-  <img alt="OpenAI" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg">
-  <img alt="Google Gemini" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg">
-  <img alt="LangChain" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg">
-  <img alt="n8n" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
+  <img alt="OpenAI" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" style="filter: invert(1);">
+  
+  <img alt="Google Gemini" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" style="fill:#8E75B2;">
+  
+  <img alt="LangChain" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" style="fill:#1C3C3C;">
+  
+  <img alt="n8n" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" style="fill:#EA4B71;">
 </div>
 
 ---
