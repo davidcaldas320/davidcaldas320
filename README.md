@@ -58,10 +58,10 @@ Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de
 
 ### 🤖 Inteligência Artificial & No-Code
 <div>
-  <img alt="OpenAI" width="40" src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png">
-  <img alt="Google Gemini" width="40" src="https://seeklogo.com/images/G/google-gemini-logo-9E8B32D1E5-seeklogo.com.png">
-  <img alt="LangChain" width="40" src="https://icon.icepanel.io/Technology/svg/LangChain.svg">
-  <img alt="N8N" width="40" src="https://cdn.worldvectorlogo.com/logos/n8n-2.svg">
+  <img alt="OpenAI" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg">
+  <img alt="Google Gemini" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg">
+  <img alt="LangChain" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg">
+  <img alt="n8n" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg">
 </div>
 
 ---
