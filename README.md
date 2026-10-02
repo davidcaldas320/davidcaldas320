@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">👋 Olá! Eu sou o David Caldas</h1></summary>
-    <p>Estudante de Ciência da Computação | Focado em Desenvolvimento de Software</p>
+    <p>Bacharel de Ciência da Computação | Focado em Desenvolvimento de Software</p>
   </ul>
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação (7º período) com foco em desenvolvimento de software e crescimento profissional na área.
+Bacharel em Ciência da Computação com foco em desenvolvimento de software e crescimento profissional na área.
 Tenho experiência com C#, Java, Python, HTML/CSS/JavaScript, além de projetos acadêmicos e pessoais que aplicam arquitetura MVC, CRUD, automações e integração com APIs.
 
 Gosto de aprender novas tecnologias, trabalhar em equipe e resolver problemas de forma prática. Estou em busca da minha primeira oportunidade como Estagiário em Desenvolvimento, para evoluir tecnicamente e contribuir de forma real com o time.
